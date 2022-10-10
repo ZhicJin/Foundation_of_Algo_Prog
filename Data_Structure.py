@@ -1,5 +1,6 @@
 # DATA STRUCTURE
 # Node to store x, y coordinates of the point.
+import random
 import math
 class node:
     def __init__(self):
