@@ -31,6 +31,6 @@ The first number is x value of the point, and the second would be y.
 But if you want to create auto-randomized points set, you can use ***auto*** argument on the program, for example:
 ```
 python3 Find_m_closest.py --file_path filename --num 4 --auto
-
 ```
+--auto argument would wirte 100 randomized points into the file at provided file path. And the result is based on the randomized point sets.
 you can see the its usage by running ``` python3 Find_m_closest.py -h ```
